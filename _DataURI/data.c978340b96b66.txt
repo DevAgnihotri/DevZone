@@ -1,0 +1,1 @@
+chrome-extension://amdjnhbhdjpkbnjkmnpooebpfcgejahe/options.model.js
