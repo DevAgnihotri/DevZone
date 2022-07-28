@@ -1,1 +1,0 @@
-chrome-extension://laankejkbhbdhmipfmgcngdelahlfoji/components/ActivityMonitor/views/overlay/overlay.tpl

@@ -1,1 +1,0 @@
-chrome-extension://ccfomhdaagemnbhbpminjoggkbglmcgb/src/content/insert.js

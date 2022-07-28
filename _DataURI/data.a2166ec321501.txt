@@ -1,1 +1,0 @@
-chrome-extension://kkgaechmpjgbojahkofamdjkaklgbdkc/scripts/vendors_background_content-exchange_content-panel_content-trello_panel.js
